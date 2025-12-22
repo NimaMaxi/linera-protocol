@@ -148,4 +148,4 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 For detailed guidelines, see our [contribution guide](./CONTRIBUTING.md).
 > This commit is for developer role verification on Guild.xyz
-Nimaa
+Nimaaa
